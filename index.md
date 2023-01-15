@@ -1,39 +1,18 @@
-<!DOCTYPE html>
-<html>
-<body>
-<p><span style="font-family:Georgia,serif">Hey there! I&#39;m Sean King and I&#39;m a freshman at UC San Diego studying Computer Science.</span></p>
+Hey there! I'm Sean King and I'm a freshman at UC San Diego studying Computer Science.
 
-<p><span style="font-family:Georgia,serif">Below are some links to some projects that I have created. Outside of computing, I spend most of my time outdoors and in nature; I love mountaineering, trail running, backpacking, biking, and anything that involves fresh air :)</span></p>
+Below are some links to some projects that I have created. Outside of computing, I spend most of my time outdoors and in nature; I love mountaineering, trail running, backpacking, biking, and anything that involves fresh air :)
 
-<p><span style="font-family:Georgia,serif">Feel free to contact me at <a href="mailto:sek032@ucsd.edu">sek032@ucsd.edu</a></span></p>
+Feel free to contact me at [sek032@ucsd.edu](mailto:sek032@ucsd.edu)
 
-<p>&nbsp;</p>
+**Personal Projects:**
 
-<p><span style="font-family:Georgia,serif"><span style="font-size:14px"><strong>Personal Projects:</strong></span></span></p>
+*   In the summer of 2022, I built a permit checker for backpacking permits in the Inyo National Forest. It can be used either to do bulk searches on all available permits or to check for last minute cancellations of hard-to-get-permits. It is viewable [here](https://github.com/s3anAK/recreation-gov-availability).
 
-<ul>
-	<li>In the summer of 2022, I built a permit checker for backpacking permits in the Inyo National Forest. It can be used either to do bulk searches on all available permits or to check for last minute cancellations of hard-to-get-permits. It is viewable <a href="https://github.com/s3anAK/recreation-gov-availability">here</a>.</li>
-</ul>
+**Work Experience:**
 
-<p>&nbsp;</p>
-
-<p><span style="font-family:Georgia,serif"><span style="font-size:14px"><strong>Work Experience:</strong></span></span></p>
-
-<ul>
-	<li><span style="font-family:Georgia,serif">I interned for 2 summers at Caltopo helping to develop mapping technologies to benefit first responders and recreational backcountry enthusiasts alike.</span>
-
-	<ul>
-		<li><span style="font-family:Georgia,serif">In the summer of 2020, I built a Geology Overlay which is viewable <a href="https://caltopo.com/m/0RDSP">here</a>.</span></li>
-		<li><span style="font-family:Georgia,serif">In the summer of 2021, I worked on multiple projects for Caltopo.</span>
-		<ul>
-			<li><span style="font-family:Georgia,serif">I rendered and imported Switzerland&#39;s topographic maps to Caltopo&#39;s database. An example based around Zermatt is viewable <a href="https://caltopo.com/m/7S48A">here</a>.</span></li>
-			<li><span style="font-family:Georgia,serif">I imported and used OpenStreetMap data to create overlays that display skiing and mountain biking routes. An example around Truckee, CA is viewable&nbsp;<a href="https://caltopo.com/m/989D9">here</a>. Note that to change from mountain biking you must select &quot;Ski&quot; from the menu on the right. A legend is available at the bottom of the page.</span></li>
-			<li><span style="font-family:Georgia,serif">I added additional labels to Caltopo&#39;s flagship basemap, &quot;MapBuilderTopo&quot;, to display town names, toilets, campgrounds, campsites, fences, and passes. An example of several of the icons around Whitney Portal, CA is viewable <a href="https://caltopo.com/m/ELC9T">here</a>.</span></li>
-		</ul>
-		</li>
-	</ul>
-	</li>
-</ul>
-
-</body>
-</html>
+*   I interned for 2 summers at Caltopo helping to develop mapping technologies to benefit first responders and recreational backcountry enthusiasts alike.
+    *   In the summer of 2020, I built a Geology Overlay which is viewable [here](https://caltopo.com/m/0RDSP).
+    *   In the summer of 2021, I worked on multiple projects for Caltopo.
+        *   I rendered and imported Switzerland's topographic maps to Caltopo's database. An example based around Zermatt is viewable [here](https://caltopo.com/m/7S48A).
+        *   I imported and used OpenStreetMap data to create overlays that display skiing and mountain biking routes. An example around Truckee, CA is viewable [here](https://caltopo.com/m/989D9). Note that to change from mountain biking you must select "Ski" from the menu on the right. A legend is available at the bottom of the page.
+        *   I added additional labels to Caltopo's flagship basemap, "MapBuilderTopo", to display town names, toilets, campgrounds, campsites, fences, and passes. An example of several of the icons around Whitney Portal, CA is viewable [here](https://caltopo.com/m/ELC9T).
