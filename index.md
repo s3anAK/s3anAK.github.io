@@ -10,7 +10,7 @@ Feel free to contact me at [sek032@ucsd.edu](mailto:sek032@ucsd.edu)
 
 **Work Experience:**
 
-*   I interned for 2 summers at Caltopo helping to develop mapping technologies to benefit first responders and recreational backcountry enthusiasts alike.
+*   I interned for 2 summers at [Caltopo](https://caltopo.com/about/) helping to develop mapping technologies to benefit first responders and recreational backcountry enthusiasts alike.
     *   In the summer of 2020, I built a Geology Overlay which is viewable [here](https://caltopo.com/m/0RDSP).
     *   In the summer of 2021, I worked on multiple projects for Caltopo.
         *   I rendered and imported Switzerland's topographic maps to Caltopo's database. An example based around Zermatt is viewable [here](https://caltopo.com/m/7S48A).
