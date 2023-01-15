@@ -1,4 +1,4 @@
-![IMG_8573](https://user-images.githubusercontent.com/56090826/212568044-1cee6033-4674-4324-bd56-6f9d92bdd593.jpg)
+![rsz_img_8573](https://user-images.githubusercontent.com/56090826/212568183-986c12d8-4c74-47bb-9cfd-01c9f45e20d8.png)
 
 Hey there! I'm Sean King and I'm a freshman at UC San Diego studying Computer Science.
 
