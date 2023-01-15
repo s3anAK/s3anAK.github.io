@@ -1,10 +1,17 @@
 ![rsz_1img_8573](https://user-images.githubusercontent.com/56090826/212568270-e2facdc4-2bad-45c7-b51b-fed02ec8a0b7.png)
+<img src="[drawing.jpg](https://user-images.githubusercontent.com/56090826/212568270-e2facdc4-2bad-45c7-b51b-fed02ec8a0b7.png)" alt="me" width="200" height="200"/>
 
 Hey there! I'm Sean King and I'm a freshman at UC San Diego studying Computer Science.
 
-Below are some links to some projects that I have created. Outside of computing, I spend most of my time outdoors and in nature; I love mountaineering, trail running, backpacking, biking, and anything that involves fresh air :)
+Below are some links to some projects that I have created. Outside of computing, I spend most of my time outdoors and in nature; I love mountaineering, trail running, backpacking, biking, and anything that involves the mountains :)
 
-Feel free to contact me at [sek032@ucsd.edu](mailto:sek032@ucsd.edu)
+Some places you can find me:
+* [Peakbagger](https://www.peakbagger.com/climber/climber.aspx?cid=19475)
+* [Github](https://github.com/s3anAK)
+* [Linkedin](https://www.linkedin.com/in/sean-king-91b52822a/)
+* [Strava](https://www.strava.com/athletes/37056640)
+* I write about the mountains at [scooter2x2.com](scooter2x2.com)
+* Via email at [seankingus@gmail.com](mailto:seankingus@gmail.com)
 
 **Personal Projects:**
 
