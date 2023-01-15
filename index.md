@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/56090826/212568270-e2facdc4-2bad-45c7-b51b-fed02ec8a0b7.png" alt="me" width="2016" height="1000"/>
+<img src="https://user-images.githubusercontent.com/56090826/212568270-e2facdc4-2bad-45c7-b51b-fed02ec8a0b7.png" alt="me" width="2016" height="800"/>
 
 Hey there! I'm Sean King and I'm a freshman at UC San Diego studying Computer Science.
 
