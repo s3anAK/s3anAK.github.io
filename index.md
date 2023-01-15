@@ -1,3 +1,5 @@
+![IMG_8573](https://user-images.githubusercontent.com/56090826/212568044-1cee6033-4674-4324-bd56-6f9d92bdd593.jpg)
+
 Hey there! I'm Sean King and I'm a freshman at UC San Diego studying Computer Science.
 
 Below are some links to some projects that I have created. Outside of computing, I spend most of my time outdoors and in nature; I love mountaineering, trail running, backpacking, biking, and anything that involves fresh air :)
