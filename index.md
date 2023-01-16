@@ -12,12 +12,12 @@ Some places you can find me:
 * I write about the mountains at [scooter2x2.com](scooter2x2.com)
 * Via email at [seankingus@gmail.com](mailto:seankingus@gmail.com)
 
-**Personal Projects:**
+## Personal Projects:
 
 *   In the summer of 2022, I built a permit checker for backpacking permits in the Inyo National Forest. It can be used either to do bulk searches on all available permits or to check for last minute cancellations of hard-to-get-permits. It is viewable [here](https://github.com/s3anAK/recreation-gov-availability).
 *   I am currently working with a team to develop a website following the MERN stack that will provide food reccomendations at UCSD to users based on their dietary preferences. Our project is part of the quarterly projects system for UCSD's ACM chapter. While it is not deployed yet, the github repo is available [here](https://github.com/acmucsd-projects/fa22-hack-team-2). 
 
-**Work Experience:**
+## Work Experience:
 
 *   I interned for 2 summers at [Caltopo](https://caltopo.com/about/) helping to develop mapping technologies to benefit first responders and recreational backcountry enthusiasts alike.
     *   In the summer of 2020, I built a Geology Overlay which is viewable [here](https://caltopo.com/m/0RDSP).
