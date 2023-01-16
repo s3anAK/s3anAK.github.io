@@ -2,20 +2,18 @@
 
 Hey there! I'm Sean King and I'm a freshman at UC San Diego studying Computer Science.
 
-Below are some links to some projects that I have created. Outside of computing, I spend most of my time outdoors and in nature; I love mountaineering, trail running, backpacking, biking, and anything that involves the mountains. The photo above is from midway through a 15-hour day atop the 13,714' Mount Corcoran in the High Sierra.
+I'm passionate about using computer science to solve real world problems, particularly those relating to the natural world. To that end, I am interested in GIS, maps, and scientific applications of computer science. I am currently looking for an internship for Summer 2022. 
+
+Outside of computing, I spend most of my time outdoors and in nature; I love mountaineering, trail running, backpacking, biking, and anything that involves the mountains. The photo above is from atop the 13,714' Mount Corcoran midway through a 15-hour day in the High Sierra.
 
 Some places you can find me:
 * [Peakbagger](https://www.peakbagger.com/climber/climber.aspx?cid=19475)
 * [Github](https://github.com/s3anAK)
 * [Linkedin](https://www.linkedin.com/in/sean-king-91b52822a/)
 * [Strava](https://www.strava.com/athletes/37056640)
+* [FKT](https://fastestknowntime.com/athlete/sean-king)
 * I write about the mountains at [scooter2x2.com](scooter2x2.com)
 * Via email at [seankingus@gmail.com](mailto:seankingus@gmail.com)
-
-## Personal Projects:
-
-*   In the summer of 2022, I built a permit checker for backpacking permits in the Inyo National Forest. It can be used either to do bulk searches on all available permits or to check for last minute cancellations of hard-to-get-permits. It is viewable [here](https://github.com/s3anAK/recreation-gov-availability).
-*   I am currently working with a team to develop a website following the MERN stack that will provide food reccomendations at UCSD to users based on their dietary preferences. Our project is part of the quarterly projects system for UCSD's ACM chapter. While it is not deployed yet, the github repo is available [here](https://github.com/acmucsd-projects/fa22-hack-team-2). 
 
 ## Work Experience:
 
@@ -25,3 +23,11 @@ Some places you can find me:
         *   I rendered and imported Switzerland's topographic maps to Caltopo's database. An example based around Zermatt is viewable [here](https://caltopo.com/m/7S48A).
         *   I imported and used OpenStreetMap data to create overlays that display skiing and mountain biking routes. An example around Truckee, CA is viewable [here](https://caltopo.com/m/989D9). Note that to change from mountain biking you must select "Ski" from the menu on the right. A legend is available at the bottom of the page.
         *   I added additional labels to Caltopo's flagship basemap, "MapBuilderTopo", to display town names, toilets, campgrounds, campsites, fences, and passes. An example of several of the icons around Whitney Portal, CA is viewable [here](https://caltopo.com/m/ELC9T).
+* Technologies used/learned: Python, Shell Scripting, PostGIS, GDAl, Mapnik, SQL, Linux
+
+## Personal Projects:
+
+*   In the summer of 2022, I built a permit checker for backpacking permits in the Inyo National Forest. It can be used either to do bulk searches on all available permits or to check for last minute cancellations of hard-to-get-permits. It is viewable [here](https://github.com/s3anAK/recreation-gov-availability).
+         * Technologies used/learned: Python, CRUD, AWS, Shell Scripting, working with APIs
+*   I am currently working with a team to develop a website following the MERN stack that will provide food reccomendations at UCSD to users based on their dietary preferences. I am involved with all aspects of the project, but mainly I am working to develop a RESTful API to access out MongoDB database with all of the food options in it. Our project is part of the quarterly projects system for UCSD's ACM chapter. While it is not deployed yet, the github repo is available [here](https://github.com/acmucsd-projects/fa22-hack-team-2). 
+         * Technologies used/learned: Javascript, Express, MongoDB, Mongoose, Node.js, React, 
