@@ -28,6 +28,6 @@ Some places you can find me:
 ## Personal Projects:
 
 *   In the summer of 2022, I built a permit checker for backpacking permits in the Inyo National Forest. It can be used either to do bulk searches on all available permits or to check for last minute cancellations of hard-to-get-permits. It is viewable [here](https://github.com/s3anAK/recreation-gov-availability).
-         * Technologies used/learned: Python, CRUD, AWS, Shell Scripting, working with APIs, Git/Github
+    * Technologies used/learned: Python, CRUD, AWS, Shell Scripting, working with APIs, Git/Github
 *   I am currently working with a team to develop a website following the MERN stack that will provide food reccomendations at UCSD to users based on their dietary preferences. I am involved with all aspects of the project, but mainly I am working to develop a RESTful API to access out MongoDB database with all of the food options in it. Our project is part of the quarterly projects system for UCSD's ACM chapter. While it is not deployed yet, the github repo is available [here](https://github.com/acmucsd-projects/fa22-hack-team-2). 
-         * Technologies used/learned: Javascript, Express, MongoDB, Mongoose, Node.js, React, Git/Github
+    * Technologies used/learned: Javascript, Express, MongoDB, Mongoose, Node.js, React, Git/Github
