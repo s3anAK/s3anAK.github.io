@@ -23,11 +23,11 @@ Some places you can find me:
         *   I rendered and imported Switzerland's topographic maps to Caltopo's database. An example based around Zermatt is viewable [here](https://caltopo.com/m/7S48A).
         *   I imported and used OpenStreetMap data to create overlays that display skiing and mountain biking routes. An example around Truckee, CA is viewable [here](https://caltopo.com/m/989D9). Note that to change from mountain biking you must select "Ski" from the menu on the right. A legend is available at the bottom of the page.
         *   I added additional labels to Caltopo's flagship basemap, "MapBuilderTopo", to display town names, toilets, campgrounds, campsites, fences, and passes. An example of several of the icons around Whitney Portal, CA is viewable [here](https://caltopo.com/m/ELC9T).
-* Technologies used/learned: Python, Shell Scripting, PostGIS, GDAl, Mapnik, SQL, Linux
+* Technologies used/learned: Python, Shell Scripting, PostGIS, GDAl, Mapnik, SQL, Linux, Git/Github
 
 ## Personal Projects:
 
 *   In the summer of 2022, I built a permit checker for backpacking permits in the Inyo National Forest. It can be used either to do bulk searches on all available permits or to check for last minute cancellations of hard-to-get-permits. It is viewable [here](https://github.com/s3anAK/recreation-gov-availability).
-         * Technologies used/learned: Python, CRUD, AWS, Shell Scripting, working with APIs
+         * Technologies used/learned: Python, CRUD, AWS, Shell Scripting, working with APIs, Git/Github
 *   I am currently working with a team to develop a website following the MERN stack that will provide food reccomendations at UCSD to users based on their dietary preferences. I am involved with all aspects of the project, but mainly I am working to develop a RESTful API to access out MongoDB database with all of the food options in it. Our project is part of the quarterly projects system for UCSD's ACM chapter. While it is not deployed yet, the github repo is available [here](https://github.com/acmucsd-projects/fa22-hack-team-2). 
-         * Technologies used/learned: Javascript, Express, MongoDB, Mongoose, Node.js, React, 
+         * Technologies used/learned: Javascript, Express, MongoDB, Mongoose, Node.js, React, Git/Github
