@@ -2,7 +2,7 @@
 
 Hey there! I'm Sean King and I'm a freshman at UC San Diego studying Computer Science.
 
-Below are some links to some projects that I have created. Outside of computing, I spend most of my time outdoors and in nature; I love mountaineering, trail running, backpacking, biking, and anything that involves the mountains :)
+Below are some links to some projects that I have created. Outside of computing, I spend most of my time outdoors and in nature; I love mountaineering, trail running, backpacking, biking, and anything that involves the mountains. The photo above is from midway through a 15-hour day atop the 13,714' Mount Corcoran in the High Sierra.
 
 Some places you can find me:
 * [Peakbagger](https://www.peakbagger.com/climber/climber.aspx?cid=19475)
