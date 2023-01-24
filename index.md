@@ -12,6 +12,7 @@ Some places you can find me:
 * [Linkedin](https://www.linkedin.com/in/sean-king-91b52822a/)
 * [Strava](https://www.strava.com/athletes/37056640)
 * [FKT](https://fastestknowntime.com/athlete/sean-king)
+* [Geocaching](https://www.geocaching.com/p/default.aspx?guid=a6aeb43b-e56c-4af1-9f08-a6335c103122&wid=137d6928-7e99-436d-a306-08e4c243c8e0&ds=2)
 * I write about the mountains at [scooter2x2.com](scooter2x2.com)
 * Via email at [seankingus@gmail.com](mailto:seankingus@gmail.com)
 
