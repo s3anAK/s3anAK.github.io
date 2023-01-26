@@ -1,3 +1,4 @@
+
 # Logging into your CSE 15L account
 This tutorial will cover how to use ssh to log into your course-specific account on `ieng6`. It will be divided up into 3 steps:
 
@@ -15,7 +16,16 @@ We are ready to start running commands in the terminal now. To use ssh to log in
 
 ![Screenshot_20230111_014026](https://user-images.githubusercontent.com/56090826/211941573-33542327-a8e0-4b63-a6b5-2dc877ab31e1.png)
 ## Running Some Commands
-Now we are going to run some commands to get used to the bash terminal. Things to try include `cd`, `ls`,`cp`,`cat`, `touch`, or `pwd`. You may or may not run these commands properly, but they should all at least be seen as valid commands. An example of what some of these commands might look like is below.
+Now we are going to run some commands to get used to the bash terminal. Things to try include:
+
+ - `cd [directory]`: change the directory to the specified directory
+ - `ls`: display the contents of a directory
+ - `cat [fileName]`: display the contents of a file
+ - `touch [newFileName]`: create a new file
+ - `pwd`: print your current directory
+
+If the code runs properly, you will either see nothing (for `cd` or `touch`) or the expected output (the contents of a file for `cat`, your working directory for `touch`, etc.). An example of what some of these commands might look like is below.
 
 ![Screenshot_20230111_014449](https://user-images.githubusercontent.com/56090826/211941696-cecfb634-30e6-4d75-b812-5642334f59e4.png)
 
+If you don't run a command properly, for example `tuch test.txt` or `cd thisDirectoryDoesNotExist`, you will see an error message such as `bash: command not found` or `bash: no such file or directory`. Generally, these errors will either be a mistake with mistyping the command, or supplying it with invalid arguments.
