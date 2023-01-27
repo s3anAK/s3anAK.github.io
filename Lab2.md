@@ -50,6 +50,7 @@ Here is the code for the Web Sever:
 		 - The value of this field is changed from an empty string to `Hello` during this method call.
 	 - The value of the field `first` when `handleRequest(URI url)` is called is `true`
 		 - The value of this field is changed from `true` to `false` during this method call.
+
 ### Example #2 for `add-message`
 ![stringServerAdd2](https://user-images.githubusercontent.com/56090826/214973838-ff92b705-7049-4b21-8bcc-0299a337e680.png)
  - The method called is `HandleRequest(URI url)`.
