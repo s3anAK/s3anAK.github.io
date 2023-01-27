@@ -77,9 +77,11 @@ The bug I am choosing to address is the one in the `reversed` method in `ArrayEx
 	assertArrayEquals(new  int[]{ }, ArrayExamples.reversed(input1));
 	}
 ### The Symptom
+
 ![Screenshot 2023-01-26 221535](https://user-images.githubusercontent.com/56090826/215021706-4c6c59a6-ea4a-437e-a175-573e87c6233b.png)
 
 ### The Bug
+
 **Before the fix:**
 
     static  int[] reversed(int[] arr) {
@@ -97,6 +99,7 @@ The bug I am choosing to address is the one in the `reversed` method in `ArrayEx
 	}
 	return newArray;
 	}
+	
 This fix addresses the issue because before, `arr` was being populated with values from `newArray` which was a blank integer array (just zeroes). I swapped the assignment statement in the for loop so the values from `arr` are being used to populate `newArray`. This makes it so that the values being put in to `newArray` are the reversed version of `arr`. I also changed the return statement to `return newArray` since newArray is the one that contains the reversed list.
 
 ## What I learned
