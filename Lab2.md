@@ -1,5 +1,5 @@
 # Lab Report #2
-This report contains 2 parts: building a web server and addressing bugs.
+This report contains 3 parts: building a web server, addressing bugs, and what I learned.
 ## Building a Web Server
 Here is the code for the Web Sever:
 	
@@ -61,7 +61,7 @@ Here is the code for the Web Sever:
 		 - The value of this field is not changed during this method call because this is not the first call that the server is making.
 
 ## Addressing Bugs
-The bug I am choosing to address is the one in the `reversed` method where it writes the new array from a blank array instead of reversing itself.
+The bug I am choosing to address is the one in the `reversed` method in `ArrayExamples.java` where it writes the new array from a blank array instead of reversing itself.
 ### Failure-Inducing Input:
 
     @Test
