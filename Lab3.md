@@ -16,7 +16,7 @@ $ grep --color "Lucayans" travel_guides/berlitz2/Bahamas-History.txt
 which would return this:
 ![--color](https://user-images.githubusercontent.com/56090826/218331243-84a50e00-70d0-4047-8ee1-12b4ba149a33.png)
 
-Another example which highlights all instances of `January` in the file `Bermuda-WhereToGo` would be:
+Another example which highlights all instances of `January` in the file `Bermuda-WhereToGo.txt` would be:
 ```
 $ grep --color "January" travel_guides/berlitz2/Bermuda-WhereToGo.txt
 ```
