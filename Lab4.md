@@ -15,10 +15,10 @@ For this step, I went to GitHub on chrome, copied the link to SSH the repo, then
 
 For this step, I moved into the repository that I just cloned. Then I copy-and-pasted the commands for running the tests from the course website. I had to change the end of the second command to `ListExamplesTests` instead of `ArrayTests` before I was able to run the command.
 ## Step #7
-*Command Line:*
+**Command Line:**
 ![editTests1](https://user-images.githubusercontent.com/56090826/221434224-89edaebb-0d5e-4bb3-b97a-cc94b2e3732d.png)
 
-*Nano editor:*
+**Nano editor:**
 ![editTests2](https://user-images.githubusercontent.com/56090826/221434223-abf81a4e-660b-4aa7-9616-6f671274e9a0.png)
 *Keys pressed:* `<typing> nano L <tab> <typing> .java <enter> <hold down arrow until line with the error is reached> <right arrow x12> <delete x1> <typing> 2 <control + X> <typing> y <enter>`
 
