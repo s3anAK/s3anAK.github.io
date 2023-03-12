@@ -21,7 +21,7 @@ Mostly, it was just a matter of copy and pasting all the commands that I ran int
  - When I initially created `lab7quick.sh`, I could not run it because I had not added the executable permission. I was confused for a bit, but thankfully I remembered back to when I created a project last summer that I could add the executable permission by `chmod +x lab7quick.sh`. After that, I was able to run it just fine.
  - It's important that I had my ssh permissions set up for my github account otherwise I would have had to input my username and password when I wanted to clone or push. I'm not sure how I would done that from a bash script, though there is probably a way.
 ## Output
-After making sure everything worked, the total time to do all the steps was probably around 3 seconds, much faster than my fasted attempt at the lab manually. This was the output that I got from running `lab7quick.sh`:
+After making sure everything worked, the total time to do all the steps was probably around 3 seconds, much faster than my fasted attempt at the lab manually. This was the output that I got from running the command `./lab7quick.sh`:
 ### Screenshot #1
 ![ss1](https://user-images.githubusercontent.com/56090826/224565254-584d01a5-618d-4740-a6ce-75e63b917dab.png)
 ### Screenshot #2
