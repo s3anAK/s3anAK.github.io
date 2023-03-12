@@ -1,5 +1,5 @@
 # Writing a Letter to Congress
-[Here](project3Final.pdf) is a sample letter to a congressman Ro Khanna about the climate crisis. Following are few tips and things that I learned while writing this letter that could help you in the future.
+[Here](https://s3anak.github.io/project3Final.pdf) is a sample letter to a congressman Ro Khanna about the climate crisis. Following are few tips and things that I learned while writing this letter that could help you in the future.
 
 
  - Be Formal
