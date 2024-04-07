@@ -1,10 +1,10 @@
 <img src="https://user-images.githubusercontent.com/56090826/212568270-e2facdc4-2bad-45c7-b51b-fed02ec8a0b7.png" alt="me" width="70%"/>
 
-Hey there! I'm Sean King and I'm a freshman at UC San Diego studying Computer Science.
+Hey there! I'm Sean King and I'm a sophomore at UC San Diego studying Computer Science.
 
-I'm passionate about using computer science to solve real world problems, particularly those relating to the natural world. To that end, I am interested in GIS, maps, and scientific applications of computer science. A copy of my resumse is [here](https://s3anak.github.io/finalResume.pdf). I am currently looking for an internship for Summer 2023.
+I'm passionate about using computer science to solve real world problems, particularly those relating to the natural world. To that end, I am interested in GIS, maps, and scientific applications of computer science. A copy of my resumse is [here](https://s3anak.github.io/finalResume.pdf).
 
-Outside of computing, I spend most of my time outdoors and in nature; I love mountaineering, trail running, backpacking, biking, and anything that involves the mountains. The photo above is from atop the 13,714' Mount Corcoran midway through a 15-hour day in the High Sierra.
+Outside of computing, I spend most of my time outdoors and in nature; I love rock climbing, mountaineering, trail running, backpacking, biking, and anything that involves the mountains. The photo above is from atop the 13,714' Mount Corcoran midway through a 15-hour day in the High Sierra.
 
 Some places you can find me:
 * [Peakbagger](https://www.peakbagger.com/climber/climber.aspx?cid=19475)
