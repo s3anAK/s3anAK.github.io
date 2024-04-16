@@ -4,12 +4,13 @@ Hey there! I'm Sean King and I'm a sophomore at UC San Diego studying Computer S
 
 I'm passionate about using computer science to solve real world problems, particularly those relating to the natural world. To that end, I am interested in GIS, maps, and scientific applications of computer science. A copy of my resumse is [here](https://s3anak.github.io/finalResume.pdf).
 
-Outside of computing, I spend most of my time outdoors and in nature; I love rock climbing, mountaineering, trail running, backpacking, biking, and anything that involves the mountains. The photo above is from atop Crimson Chrysalis, a 9-pitch mega classic rock climb in Red Rock.
+Outside of computing, I spend most of my time outdoors and in nature; I love rock climbing, mountaineering, trail running, backpacking, biking, and anything that involves the mountains. The photo above is from atop Crimson Chrysalis, a 9-pitch mega classic rock climb in Red Rocks, Nevada.
 
 Some places you can find me:
 * [Peakbagger](https://www.peakbagger.com/climber/climber.aspx?cid=19475)
 * [Github](https://github.com/s3anAK)
 * [Linkedin](https://www.linkedin.com/in/sean-king-91b52822a/)
+* [Mountain Project](https://www.mountainproject.com/user/201532016/sean-king)
 * [Strava](https://www.strava.com/athletes/37056640)
 * [FKT](https://fastestknowntime.com/athlete/sean-king)
 * [Geocaching](https://www.geocaching.com/p/default.aspx?guid=a6aeb43b-e56c-4af1-9f08-a6335c103122&wid=137d6928-7e99-436d-a306-08e4c243c8e0&ds=2)
